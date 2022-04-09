@@ -1,4 +1,46 @@
 {
+  "signupUsers": [
+    {
+      "email": "Matteo@email.com",
+      "password": "1234",
+      "name": "Matteo Capato",
+      "id": "1"
+    },
+    {
+      "email": "Fabiana@email",
+      "password": "0123",
+      "name": "Fabiana Brugnolo",
+      "id": "2"
+    },
+    {
+      "fullname": "Matteo Capato",
+      "email": "Matteo@email.com",
+      "password": "1234",
+      "mobile": 4399991111,
+      "id": "4Rnk0Fs"
+    },
+    {
+      "fullname": "Welingnton Luiz Figueiredo",
+      "email": "welingnton@email.com",
+      "password": "1234",
+      "mobile": 4399992222,
+      "id": "UATWRYr"
+    }
+  ],
+  "users": [
+    {
+      "email": "welingnton@email",
+      "password": "1234",
+      "name": "Welingnton",
+      "id": "1"
+    },
+    {
+      "email": "Luiz@email",
+      "password": "$2a$10$a2krb48RI1aTrmhiK4OfiuYxQazd9p33x8M1o0Ozb0FwK/YBeQg9a",
+      "nome": "Welingnton",
+      "id": "O3o_L6e"
+    }
+  ],
   "Login": [
     {
       "id": "1",
